@@ -14,5 +14,9 @@
   {
     "title": "Nginx",
     "imageSrc": "skills/nginx.png"
+  }  ,
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
   }
 ]

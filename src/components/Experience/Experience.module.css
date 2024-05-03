@@ -51,6 +51,12 @@
   height: auto;
 }
 
+.smallImage1{
+  width:130px;
+  height:auto;
+  margin-right: 11%;
+}
+
 .skill p {
   font-size: 25px;
   font-family: var(--font-roboto);
