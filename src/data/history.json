@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Frontend developer Intern",
+    "organisation": "1 Lynx Solutions Sdn Bhd",
+    "startDate": "Jan, 2024",
+    "endDate": "May, 2024",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components",
+      "Implemented Responsive Design",
+      "Integration of  APIs",
+      "Optimization and Performance Improvements",
+      "Bug Fixing and Troubleshooting",
+      "Code Quality Analysis with SonarQube"
+    ],
+    "imageSrc": "history/1LynxLogo.png"
+  }
+]
