@@ -8,13 +8,17 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
     "title": "Nginx",
     "imageSrc": "skills/nginx.png"
-  }  ,
+  },
   {
     "title": "Postman",
     "imageSrc": "skills/postman.png"

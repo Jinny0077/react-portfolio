@@ -17,8 +17,11 @@ export const Experience = () => {
                   <img
                     src={getImageUrl(skill.imageSrc)}
                     alt={skill.title}
-                    className={`${skill.title === "Nginx" ? styles.smallImage : ""} ${skill.title === "Postman" ? styles.smallImage1 : ""}`}
-               
+                    className={`${
+                      skill.title === "Nginx" || "Javascript"
+                        ? styles.smallImage
+                        : ""
+                    } ${skill.title === "Postman" ? styles.smallImage1 : ""} `}
                   />
                 </div>
                 <p>{skill.title}</p>
