@@ -11,8 +11,8 @@ export const Hero = () => {
           I'm a frontend developer using React. Reach out if you'd like to learn
           more.
         </p>
-        <a href="mailto:leongjiayan@gmail.com" className={styles.contactBtn}>
-          Contact Me
+        <a href="../assets/reseume.pdf" className={styles.contactBtn}>
+          Resume
         </a>
       </div>
       <img

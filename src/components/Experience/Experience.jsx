@@ -21,7 +21,9 @@ export const Experience = () => {
                       skill.title === "Nginx" || "Javascript"
                         ? styles.smallImage
                         : ""
-                    } ${skill.title === "Postman" ? styles.smallImage1 : ""} `}
+                    } ${skill.title === "Postman" ? styles.smallImage1 : ""}${
+                      skill.title === "TypeScript" ? styles.smallImage2 : ""
+                    } `}
                   />
                 </div>
                 <p>{skill.title}</p>
