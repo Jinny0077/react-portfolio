@@ -25,7 +25,7 @@ export const Education = () => {
                 UMT)
               </h3>
               <h3>Bachelor of Social Science (Honours) in Psychology</h3>
-              <h4>2022 - current</h4>
+              <h4>2022 - 2024</h4>
               <p>cgpa 3.79</p>
             </div>
           </li>
