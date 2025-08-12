@@ -1,26 +1,14 @@
 [
   {
-    "title": "Simple Site",
-    "imageSrc": "projects/simpleSite.png",
-    "description": "This is a project made to learn HTML and CSS by building an app.",
-    "skills": ["HTML", "CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Jinny0077/Simple-Site"
+    "title": "CRM - Task Management System",
+    "imageSrc": "projects/crm.png",
+    "skills": ["React Typescript", "CSS", "MUI"],
+    "demo": "https://crm-2cjw.onrender.com"
   },
   {
-    "title": "React Learning App",
-    "imageSrc": "projects/reactLearningApp.png",
-    "description": "This is a project made to learn the React Typescript by building an app.",
-    "skills": ["React", "Typescript", "CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Jinny0077/react-learning-app"
-  },
-  {
-    "title": "Versa App",
-    "imageSrc": "projects/versaApp.png",
-    "description": "This is a project made to learn the React Typescript by building an app.",
-    "skills": ["React", "Typescript", "CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Jinny0077/Versa-App"
+    "title": "Ecommerce",
+    "imageSrc": "projects/ecommerce.png",
+    "skills": ["React Javascript",  "SCSS"],
+    "demo": "https://ecommerce-t7mj.onrender.com"
   }
 ]
